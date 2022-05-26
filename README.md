@@ -1,2 +1,2 @@
 # RCP211
- cnam ai
+AI advanced in CNAM for the certficate in AI
